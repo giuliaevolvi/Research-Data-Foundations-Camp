@@ -26,6 +26,7 @@ My dataset is part of a European Union funded project called MERGE- Media, relig
 1)	converting the files to standard open formats; 
 2)	providing all relevant documentation and explanation for the data and the datasets;
 3)	anonymizing and aggregating the data
+
 For dataset naming, in order to improve data visibility, discoverability, citation and permanent online tracking, the following naming will be chosen:
 [PROJECT ACRONYM]_TaskNumber_Coverage or other content specifications_Date(YYYYMMDD)_VersionNumber.fileExtention
 Example: 
