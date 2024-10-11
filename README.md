@@ -14,15 +14,16 @@ In order to do so, I created two datasets collecting all the posts of the two gr
 I created a dataset by downloading all of the data from Instagram using Instaloader. Then, I have put the .txt files into an excel (first I had put all the txt. Files in a separate folder from the pictures and the videos). For this specific project I am not using the pictures. Finally, I asked Python to create a list of the most used words and the most used hashtags in these texts and visually represent them. I also searched for the most commonly mentioned users in the texts. 
 
 You can find the full Python script for creating the dataset [here](Creating the dataset.py).
+
 You can find the full Python script for analysis [here](analysis.py).
 
 
 ## Data Set Evaluation
 
 My dataset is part of a European Union funded project called MERGE- Media, religion, and gender: transnational digital media actions of progressive and conservative social movements, under the Marie Skłodowska-Curie Actions (MSCA). Thiis funding scheme requires that all the dataset I create operate under FAIR principles, and that they are made accessible and open access. My host institution is the University of Bologna, that already has an open repository that complies with the FAIR principles, called AMSActa (https://amsacta.unibo.it/). As per my Data Management Plan, I will deposit my data in the trusted data repository AMSActa, which will attribute a unique persistent identifier (PID) to the deposited items [DOI]. In order to make sure that the data comply with FAIR principles, what I will do is:
-•	converting the files to standard open formats; 
-•	providing all relevant documentation and explanation for the data and the datasets;
-•	anonymizing and aggregating the data
+1)	converting the files to standard open formats; 
+2)	providing all relevant documentation and explanation for the data and the datasets;
+3)	anonymizing and aggregating the data
 For dataset naming, in order to improve data visibility, discoverability, citation and permanent online tracking, the following naming will be chosen:
 [PROJECT ACRONYM]_TaskNumber_Coverage or other content specifications_Date(YYYYMMDD)_VersionNumber.fileExtention
 Example: 
