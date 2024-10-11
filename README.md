@@ -31,6 +31,7 @@ For dataset naming, in order to improve data visibility, discoverability, citati
 [PROJECT ACRONYM]_TaskNumber_Coverage or other content specifications_Date(YYYYMMDD)_VersionNumber.fileExtention
 Example: 
 MERGE_Dataset1_240124_v0.1.odt
+
 In terms of ethics, the data come from public Instagram pages and do not generally contain names of specific users, as they reflect the views of an organization. I will not collect comments, since they can be written by private users that do not wish to have their data analyzed. It is important to notice that the two groups under analysis are campaign organizations, and therefore there is an expectation that they create online content with the intent of making it public. 
 
 
