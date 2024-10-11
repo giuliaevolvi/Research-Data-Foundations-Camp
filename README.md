@@ -13,13 +13,9 @@ In order to do so, I created two datasets collecting all the posts of the two gr
 
 I created a dataset by downloading all of the data from Instagram using Instaloader. Then, I have put the .txt files into an excel (first I had put all the txt. Files in a separate folder from the pictures and the videos). For this specific project I am not using the pictures. Finally, I asked Python to create a list of the most used words and the most used hashtags in these texts and visually represent them. I also searched for the most commonly mentioned users in the texts. 
 
-```python
-# Python script
-import pandas as pd
+You can find the full Python script for creating the dataset [here](Creating the dataset.py).
+You can find the full Python script for analysis [here](analysis.py).
 
-# Example code
-data = pd.read_csv('data.csv')
-print(data.head())
 
 ## Data Set Evaluation
 
