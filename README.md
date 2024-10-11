@@ -15,7 +15,7 @@ I created a dataset by downloading all of the data from Instagram using Instaloa
 
 This project contains the following Python scripts:
 
-1. [First Python Script](Creating the dataset.py) - How I collected data
+1. [First Python Script](Dataset.py) - How I collected data
 2. [Second Python Script](Analysis.py) - The analysis
 
 
