@@ -46,8 +46,8 @@ import instaloader
 L = instaloader.Instaloader()
 
 # Optional: Log in to Instagram (needed for private accounts)
-# Replace with your Instagram username and password
-# L.login('mergeproject2023', 'ILoveJesus!')
+# Replace 'your_username' and 'your_password' with your Instagram credentials
+# L.login('your_username', 'your_password')
 
 # Download profile data
 profile = 'womensordination'  # Replace with the Instagram username you want to download
@@ -63,13 +63,12 @@ import instaloader
 L = instaloader.Instaloader()
 
 # Optional: Log in to Instagram (needed for private accounts)
-# Replace with your Instagram username and password
-# L.login('mergeproject2023', 'ILoveJesus!')
+# Replace 'your_username' and 'your_password' with your Instagram credentials
+# L.login('your_username', 'your_password')
 
 # Download profile data
 profile = 'citizenGO'  # Replace with the Instagram username you want to download
 L.download_profile(profile, profile_pic_only=False)
-
 
 # In[ ]:
 
